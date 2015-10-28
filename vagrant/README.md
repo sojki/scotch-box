@@ -1,5 +1,9 @@
-Scotch Box
+Derivated Scotch Box
 ==========
+
+## Prerequisites
+- WIN-NFS have to be installed, check [https://github.com/winnfsd/vagrant-winnfsd]
+
 
 ## Check out the official docs at: [box.scotch.io][16]
 ## [Read the getting started article](https://scotch.io/bar-talk/introducing-scotch-box-a-vagrant-lamp-stack-that-just-works)
