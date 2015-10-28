@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Install MC
-sudo apt-get install mc
+sudo apt-get install -y mc
 
 # Enable swap
 sudo /bin/dd if=/dev/zero of=/var/swap.1 bs=1M count=1024
